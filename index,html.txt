@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centros de Inovação</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Centros de Inovação</h1>
+        <nav>
+            <ul>
+                <li><a href="#o-que-e">O Que é</a></li>
+                <li><a href="#cibs-brasil">CIBs pelo Brasil</a></li>
+                <li><a href="#cibs-mundo">CIBs pelo Mundo</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="o-que-e">
+        <h2>O Que é?</h2>
+        <p>São ambientes criados para promover e dar suporte ao empreendedorismo inovador...</p>
+        <img src="https://www.scti.sc.gov.br/centrosdeinovacao/images/mapa_cibs.jpg" alt="Mapa dos Centros de Inovação de SC">
+    </section>
+
+    <section id="cibs-brasil">
+        <h2>CIBs Pelo Brasil</h2>
+        <p>No Brasil, a expansão dos centros de inovação reflete a cr
